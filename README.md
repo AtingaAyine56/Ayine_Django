@@ -1,2 +1,2 @@
 # Ayine_Django
-LogIn and LogOut
+LogIn and LogOut of an app
